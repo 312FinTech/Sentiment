@@ -1,3 +1,5 @@
+CMP Indicator (Current Market Psychology) Indicator
+
 In Part I, we will put on LSTM RNN Model hat to predict S&P 500 closing prices. We will also fetch and analyze today's business sentiments leveraging today's top business headlines.
 
 
